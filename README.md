@@ -6,6 +6,7 @@ Error:
 > rollup-ts-bug@1.0.0 build:rollup /Users/darek/dev/rollup-ts-bug
 > rollup --config config/rollup.config.js
 
+
 projectMain/index.ts → projectDist...
 [!] Error: Unexpected token (Note that you need plugins to import files that are not JavaScript)
 projectCommons/utils.ts (1:5)
